@@ -31,6 +31,6 @@ spec:
     spec:
       containers:
         - name: one
-          image: n3a1/one:0.1.0
+          image: n3a1/one:0.2.0
           ports:
           - containerPort: 8080
